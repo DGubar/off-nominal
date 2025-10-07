@@ -1,2 +1,2 @@
-# off-nominal-game
+# off-nominal
 Browser game made with Ink
